@@ -1,3 +1,4 @@
+
 Hey, thank's for downloading this buggy template. I'll most likely link a video tutorial explaining how this works with a newer, better version just incase you couldn't figure it out, however, if it doesn't function in preview window properly, it could be due to replit not loading the .html file fully. If in such case, just simply remix the main template:
 https://replit.com/@o-wow/template
 
